@@ -4,3 +4,7 @@
  printf("Hello World");
 }
 
+void display()
+{
+  printf("Display Method");
+}
